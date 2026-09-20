@@ -1,0 +1,10 @@
+id = int(input())
+horas_trabalhadas = int(input())
+valor_hora = float(input())
+
+salario = horas_trabalhadas * valor_hora
+
+print(
+    f"NUMBER = {id}\n"
+    f"SALARY = U$ {salario:.2f}"
+)
