@@ -1,0 +1,6 @@
+kms_percorridos = int(input())
+litros_combustivel = float(input())
+
+consumo_medio = kms_percorridos / litros_combustivel
+
+print(f"{consumo_medio:.3f} km/l")
