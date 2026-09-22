@@ -1,0 +1,6 @@
+km = int(input())
+
+minutos = km * 60
+tempo = int((minutos / 60) * 2)
+
+print (f"{tempo} minutos")
