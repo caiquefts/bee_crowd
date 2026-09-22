@@ -1,5 +1,7 @@
-x1, y1 = input().split()
-x2, y2 = input().split()
+#plan1
+x1, y1 = input().split() 
+#plan2
+x2, y2 = input().split() 
 
 x1 = float(x1)
 y1 = float(y1)
